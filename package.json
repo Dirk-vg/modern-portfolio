@@ -1,0 +1,14 @@
+{
+  "name": "geek_dvlpr",
+  "version": "1.0.0",
+  "description": "Responsive portfolio webstite",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Van Goethem Dirk",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
